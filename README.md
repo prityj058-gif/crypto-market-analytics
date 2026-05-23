@@ -1,4 +1,4 @@
- # 🚀 Crypto Market Analytics & Trading Insights 
+ # 🚀 Crypto Market Analytics 
 
 ## 📌 Project Summary
 
